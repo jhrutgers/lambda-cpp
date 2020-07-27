@@ -6,3 +6,5 @@ look at the example programs in `examples`.
 
 Run `make help` for some instructions to run a program.
 
+The paper describing this project is: [Programming a Multicore Architecture without Coherency and Atomic Operations](http://eprints.eemcs.utwente.nl/24377/).
+
