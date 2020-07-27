@@ -1,0 +1,4 @@
+ARGS ?= 500000
+PRF_ARGS ?= 10000
+LAMBDA_ROOT = ../..
+include $(LAMBDA_ROOT)/Makefile
